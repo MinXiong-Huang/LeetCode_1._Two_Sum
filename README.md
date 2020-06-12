@@ -1,2 +1,2 @@
-# LeetCode_1._Two_Sum
- LeetCode_1._Two_Sum
+#### 題目:
+https://leetcode.com/problems/two-sum/
